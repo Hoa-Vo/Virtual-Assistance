@@ -2,6 +2,9 @@ import pyttsx3
 from datetime import date
 import wikipedia
 
+#pip install pipwin32
+#pipwin install pyaudio
+#pip install pyttsx3 
 
 def findWiki():
     username=input("Enter your name: ")
